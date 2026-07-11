@@ -48,23 +48,25 @@
     "solved": 7
   },
   "syncedProblems": {
-    "GeeksForGeeks_Max_Sum_Subarray_of_size_K": true
+    "GeeksForGeeks_Max_Sum_Subarray_of_size_K": true,
+    "LeetCode_Container_With_Most_Water": true
   },
-  "totalSolved": 1,
+  "totalSolved": 2,
   "difficultyCounts": {
     "easy": 1,
-    "medium": 0,
+    "medium": 1,
     "hard": 0,
     "basic": 0
   },
   "todayProblems": [
-    "Max Sum Subarray of size K"
+    "Max Sum Subarray of size K",
+    "Container With Most Water"
   ],
   "currentStreak": 1,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-07-11",
   "maxStreak": 1,
   "activityHistory": {
-    "2026-07-11": 1
+    "2026-07-11": 2
   }
 }
