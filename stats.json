@@ -52,12 +52,13 @@
     "LeetCode_Container_With_Most_Water": true,
     "LeetCode_3Sum": true,
     "LeetCode_4Sum": true,
-    "LeetCode_Remove_Duplicates_from_Sorted_Array": true
+    "LeetCode_Remove_Duplicates_from_Sorted_Array": true,
+    "LeetCode_Sort_Colors": true
   },
-  "totalSolved": 5,
+  "totalSolved": 6,
   "difficultyCounts": {
     "easy": 2,
-    "medium": 3,
+    "medium": 4,
     "hard": 0,
     "basic": 0
   },
@@ -66,13 +67,14 @@
     "Container With Most Water",
     "3Sum",
     "4Sum",
-    "Remove Duplicates from Sorted Array"
+    "Remove Duplicates from Sorted Array",
+    "Sort Colors"
   ],
   "currentStreak": 1,
-  "todayCount": 5,
+  "todayCount": 6,
   "lastSyncDate": "2026-07-11",
   "maxStreak": 1,
   "activityHistory": {
-    "2026-07-11": 5
+    "2026-07-11": 6
   }
 }
