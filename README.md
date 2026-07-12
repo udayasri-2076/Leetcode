@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/udayasri-2076/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/udayasri-2076/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/udayasri-2076/Leetcode/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/udayasri-2076/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0485-max-consecutive-ones](https://github.com/udayasri-2076/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [1004-max-consecutive-ones-iii](https://github.com/udayasri-2076/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
@@ -27,6 +28,7 @@
 | [0011-container-with-most-water](https://github.com/udayasri-2076/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/udayasri-2076/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/udayasri-2076/Leetcode/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/udayasri-2076/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Greedy
 |  |
 | ------- |
