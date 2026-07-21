@@ -34,6 +34,7 @@
 | [0018-4sum](https://github.com/udayasri-2076/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/udayasri-2076/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/udayasri-2076/Leetcode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/udayasri-2076/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/udayasri-2076/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/udayasri-2076/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
@@ -47,4 +48,8 @@
 | [0018-4sum](https://github.com/udayasri-2076/Leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/udayasri-2076/Leetcode/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/udayasri-2076/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/udayasri-2076/Leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
