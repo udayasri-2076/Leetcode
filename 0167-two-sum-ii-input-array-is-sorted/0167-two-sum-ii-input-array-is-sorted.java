@@ -7,6 +7,7 @@ class Solution {
 
         while(l<r){
             int sum=numbers[l]+numbers[r];
+
             if(sum==target){
                 return new int[]{l+1,r+1};
             }
@@ -17,6 +18,7 @@ class Solution {
                 l++;
             }
         }
+
         return new int[]{-1,-1};
     }
 }
