@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/udayasri-2076/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/udayasri-2076/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/udayasri-2076/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/udayasri-2076/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/udayasri-2076/Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/udayasri-2076/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/udayasri-2076/Leetcode/tree/master/0217-contains-duplicate) |
@@ -48,16 +49,19 @@
 | ------- |
 | [0015-3sum](https://github.com/udayasri-2076/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/udayasri-2076/Leetcode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/udayasri-2076/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/udayasri-2076/Leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/udayasri-2076/Leetcode/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/udayasri-2076/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/udayasri-2076/Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/udayasri-2076/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/udayasri-2076/Leetcode/tree/master/0344-reverse-string) |
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/udayasri-2076/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/udayasri-2076/Leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
