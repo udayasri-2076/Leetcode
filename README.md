@@ -60,13 +60,23 @@
 | [0049-group-anagrams](https://github.com/udayasri-2076/Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/udayasri-2076/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/udayasri-2076/Leetcode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/udayasri-2076/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Hash Table
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/udayasri-2076/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/udayasri-2076/Leetcode/tree/master/0217-contains-duplicate) |
+| [0387-first-unique-character-in-a-string](https://github.com/udayasri-2076/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/udayasri-2076/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/udayasri-2076/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/udayasri-2076/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
