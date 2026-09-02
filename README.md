@@ -16,6 +16,7 @@
 | [0217-contains-duplicate](https://github.com/udayasri-2076/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/udayasri-2076/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/udayasri-2076/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0904-fruit-into-baskets](https://github.com/udayasri-2076/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/udayasri-2076/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/udayasri-2076/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
@@ -28,6 +29,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/udayasri-2076/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/udayasri-2076/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/udayasri-2076/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
@@ -76,6 +78,7 @@
 | [0217-contains-duplicate](https://github.com/udayasri-2076/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/udayasri-2076/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/udayasri-2076/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0904-fruit-into-baskets](https://github.com/udayasri-2076/Leetcode/tree/master/0904-fruit-into-baskets) |
 ## Dynamic Programming
 |  |
 | ------- |
