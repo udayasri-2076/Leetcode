@@ -70,6 +70,7 @@
 | [0125-valid-palindrome](https://github.com/udayasri-2076/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/udayasri-2076/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/udayasri-2076/Leetcode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/udayasri-2076/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/udayasri-2076/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Hash Table
 |  |
@@ -77,6 +78,7 @@
 | [0049-group-anagrams](https://github.com/udayasri-2076/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/udayasri-2076/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/udayasri-2076/Leetcode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/udayasri-2076/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/udayasri-2076/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/udayasri-2076/Leetcode/tree/master/0904-fruit-into-baskets) |
 ## Dynamic Programming
@@ -90,6 +92,7 @@
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/udayasri-2076/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/udayasri-2076/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
