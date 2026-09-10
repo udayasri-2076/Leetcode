@@ -72,6 +72,7 @@
 | [0344-reverse-string](https://github.com/udayasri-2076/Leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/udayasri-2076/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/udayasri-2076/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/udayasri-2076/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,6 +82,7 @@
 | [0383-ransom-note](https://github.com/udayasri-2076/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/udayasri-2076/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/udayasri-2076/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [1189-maximum-number-of-balloons](https://github.com/udayasri-2076/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -94,6 +96,7 @@
 | ------- |
 | [0383-ransom-note](https://github.com/udayasri-2076/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/udayasri-2076/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/udayasri-2076/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## Math
 |  |
 | ------- |
