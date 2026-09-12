@@ -9,6 +9,7 @@ class Solution {
                 l++;
             }
         }
+
         return (l+1);
     }
 }
