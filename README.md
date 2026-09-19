@@ -17,6 +17,7 @@
 | [0217-contains-duplicate](https://github.com/udayasri-2076/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/udayasri-2076/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/udayasri-2076/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/udayasri-2076/Leetcode/tree/master/0704-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/udayasri-2076/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/udayasri-2076/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/udayasri-2076/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -25,6 +26,7 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/udayasri-2076/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/udayasri-2076/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/udayasri-2076/Leetcode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/udayasri-2076/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
