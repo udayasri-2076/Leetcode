@@ -24,6 +24,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/udayasri-2076/Leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/udayasri-2076/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/udayasri-2076/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/udayasri-2076/Leetcode/tree/master/0704-binary-search) |
@@ -106,4 +107,9 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/udayasri-2076/Leetcode/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/udayasri-2076/Leetcode/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/udayasri-2076/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
