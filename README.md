@@ -9,6 +9,7 @@
 | [0016-3sum-closest](https://github.com/udayasri-2076/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/udayasri-2076/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/udayasri-2076/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/udayasri-2076/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/udayasri-2076/Leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/udayasri-2076/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/udayasri-2076/Leetcode/tree/master/0075-sort-colors) |
@@ -25,6 +26,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/udayasri-2076/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/udayasri-2076/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/udayasri-2076/Leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/udayasri-2076/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
