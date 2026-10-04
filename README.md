@@ -120,6 +120,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/udayasri-2076/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/udayasri-2076/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/udayasri-2076/Leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/udayasri-2076/Leetcode/tree/master/0069-sqrtx) |
@@ -131,4 +132,12 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/udayasri-2076/Leetcode/tree/master/0074-search-a-2d-matrix) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/udayasri-2076/Leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/udayasri-2076/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
