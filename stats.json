@@ -190,25 +190,3 @@
       }
     },
     "solved": 35
-  },
-  "syncedProblems": {
-    "GeeksForGeeks_Search_in_Linked_List": true
-  },
-  "totalSolved": 1,
-  "difficultyCounts": {
-    "easy": 0,
-    "medium": 0,
-    "hard": 0,
-    "basic": 1
-  },
-  "todayProblems": [
-    "Search in Linked List"
-  ],
-  "currentStreak": 1,
-  "todayCount": 1,
-  "lastSyncDate": "2026-10-08",
-  "maxStreak": 1,
-  "activityHistory": {
-    "2026-10-08": 1
-  }
-}
