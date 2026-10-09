@@ -1,0 +1,145 @@
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/udayasri-2076/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/udayasri-2076/Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/udayasri-2076/Leetcode/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/udayasri-2076/Leetcode/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/udayasri-2076/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/udayasri-2076/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/udayasri-2076/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/udayasri-2076/Leetcode/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/udayasri-2076/Leetcode/tree/master/0049-group-anagrams) |
+| [0074-search-a-2d-matrix](https://github.com/udayasri-2076/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/udayasri-2076/Leetcode/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/udayasri-2076/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/udayasri-2076/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/udayasri-2076/Leetcode/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/udayasri-2076/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/udayasri-2076/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/udayasri-2076/Leetcode/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/udayasri-2076/Leetcode/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/udayasri-2076/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/udayasri-2076/Leetcode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/udayasri-2076/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/udayasri-2076/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [0977-squares-of-a-sorted-array](https://github.com/udayasri-2076/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/udayasri-2076/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/udayasri-2076/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/udayasri-2076/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/udayasri-2076/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/udayasri-2076/Leetcode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/udayasri-2076/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/udayasri-2076/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/udayasri-2076/Leetcode/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/udayasri-2076/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/udayasri-2076/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/udayasri-2076/Leetcode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/udayasri-2076/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/udayasri-2076/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/udayasri-2076/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/udayasri-2076/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/udayasri-2076/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/udayasri-2076/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/udayasri-2076/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/udayasri-2076/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/udayasri-2076/Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/udayasri-2076/Leetcode/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/udayasri-2076/Leetcode/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/udayasri-2076/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/udayasri-2076/Leetcode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/udayasri-2076/Leetcode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/udayasri-2076/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/udayasri-2076/Leetcode/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/udayasri-2076/Leetcode/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/udayasri-2076/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/udayasri-2076/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/udayasri-2076/Leetcode/tree/master/0011-container-with-most-water) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/udayasri-2076/Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/udayasri-2076/Leetcode/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/udayasri-2076/Leetcode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/udayasri-2076/Leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/udayasri-2076/Leetcode/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/udayasri-2076/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/udayasri-2076/Leetcode/tree/master/0242-valid-anagram) |
+| [0977-squares-of-a-sorted-array](https://github.com/udayasri-2076/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/udayasri-2076/Leetcode/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/udayasri-2076/Leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/udayasri-2076/Leetcode/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/udayasri-2076/Leetcode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/udayasri-2076/Leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/udayasri-2076/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/udayasri-2076/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+## Hash Table
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/udayasri-2076/Leetcode/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/udayasri-2076/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/udayasri-2076/Leetcode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/udayasri-2076/Leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/udayasri-2076/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0904-fruit-into-baskets](https://github.com/udayasri-2076/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [1189-maximum-number-of-balloons](https://github.com/udayasri-2076/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/udayasri-2076/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/udayasri-2076/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/udayasri-2076/Leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/udayasri-2076/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/udayasri-2076/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/udayasri-2076/Leetcode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/udayasri-2076/Leetcode/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/udayasri-2076/Leetcode/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/udayasri-2076/Leetcode/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/udayasri-2076/Leetcode/tree/master/0069-sqrtx) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/udayasri-2076/Leetcode/tree/master/0074-search-a-2d-matrix) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/udayasri-2076/Leetcode/tree/master/0002-add-two-numbers) |
+| [0876-middle-of-the-linked-list](https://github.com/udayasri-2076/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/udayasri-2076/Leetcode/tree/master/0002-add-two-numbers) |
+<!---LeetCode Topics End-->
