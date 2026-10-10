@@ -160,4 +160,12 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/udayasri-2076/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/udayasri-2076/Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/udayasri-2076/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
