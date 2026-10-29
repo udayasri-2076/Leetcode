@@ -8,9 +8,11 @@ class Solution {
             char temp=s[l];
             s[l]=s[r];
             s[r]=temp;
+
             l++;
             r--;
         }
+          
         
     }
 }
