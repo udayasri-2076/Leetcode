@@ -27,6 +27,7 @@
 | [0485-max-consecutive-ones](https://github.com/udayasri-2076/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/udayasri-2076/Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/udayasri-2076/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/udayasri-2076/Leetcode/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/udayasri-2076/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/udayasri-2076/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/udayasri-2076/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -60,6 +61,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/udayasri-2076/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/udayasri-2076/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/udayasri-2076/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/udayasri-2076/Leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/udayasri-2076/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Two Pointers
 |  |
